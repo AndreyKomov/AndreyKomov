@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrei
 
-<!--
-**AndreyKomov/AndreyKomov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a software engineer focused on front-end development, system architecture, and building scalable web applications.
+Currently based in Belgrade🇷🇸, I enjoy creating fast, reliable, and maintainable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪄 What I do
+
+- Build complex single-page applications with Angular
+- Design front-end architectures and reusable component libraries
+- Develop back-end services and APIs with Node.js
+- Optimize performance and accessibility
+- Integrate with CRMs, CMSs, and third-party APIs
+- Write clean, tested, and maintainable code
+
+### 🔧 Tech Highlights
+
+JavaScript • TypeScript • Angular • RxJS • Node.js
+
+---
